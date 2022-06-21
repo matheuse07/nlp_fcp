@@ -20,9 +20,7 @@ File description:
 
 **Download the files ⬇️ 🗂**
 
-[[https://www.dropbox.com/scl/fo/b6wk88badiapwvdst5t5c/h?dl=0](https://www.dropbox.com/scl/fo/b6wk88badiapwvdst5t5c/h?dl=0)&rlkey=2cisp5b55962dar4vded3ijre
-](https://www.dropbox.com/scl/fo/b6wk88badiapwvdst5t5c/h?dl=0)
----
+Available in the 'data' folder of this repo
 
 ## Guidelines
 
